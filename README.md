@@ -25,3 +25,5 @@ Full Stack Web Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/swastik1283"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik1283&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swastik1283&langs_count=8)
