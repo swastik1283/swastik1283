@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [swastik1283kot@gmail.com](mailto:swastik1283kot@gmail.com)
-* 🧠  I'm learning WEB3
+
 
 ### Skills
 
