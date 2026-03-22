@@ -5,6 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in India
+* 🔭  I’m currently working on Building interactive and user-focused web applications
 * ✉️  You can contact me at [swastik1283kot@gmail.com](mailto:swastik1283kot@gmail.com)
 
 
