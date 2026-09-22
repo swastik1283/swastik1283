@@ -48,14 +48,10 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="./profile-summary-card-output/github-stats.svg"
-    alt="GitHub Stats"
-  />
+  <img src="./profile-summary-card-output/github-stats.svg" alt="GitHub Stats">
 </p>
 
 ---
@@ -63,10 +59,7 @@
 ## 💻 Top Languages
 
 <p align="center">
-  <img
-    src="./profile-summary-card-output/most-commit-language.svg"
-    alt="Most Commit Language"
-  />
+  <img src="./profile-summary-card-output/most-commit-language.svg" alt="Top Languages">
 </p>
 
 ---
@@ -74,10 +67,7 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="./profile-summary-card-output/profile-summary-card-output.svg"
-    alt="GitHub Activity"
-  />
+  <img src="./profile-summary-card-output/productive-time.svg" alt="GitHub Activity">
 </p>
 
 ---
@@ -85,12 +75,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=swastik1283&hide_border=true"
-  alt="GitHub Streak"
-/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik1283&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
@@ -98,18 +83,5 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img
-  src="./profile-summary-card-output/profile-details.svg"
-  alt="GitHub Profile Details"
-/>
-
-</p>
-
----
-
-<p align="center">
-
-### 🚀 Thanks for visiting my profile!
-
+  <img src="./profile-summary-card-output/profile-details.svg" alt="GitHub Trophies">
 </p>
